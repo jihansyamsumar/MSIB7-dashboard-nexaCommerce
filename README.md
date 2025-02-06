@@ -1,5 +1,5 @@
 # MSIB7-dashboard-nexaCommerce
-I used Pakistan's Largest Ecommerce from Kaggle.com.  The results of this project analysis are related to the performance of Nexa Commerce in the last one year. We used the data set from this link: https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
+We used Pakistan's Largest Ecommerce from Kaggle.com.  The results of this project analysis are related to the performance of Nexa Commerce in the last one year. We used the data set from this link: https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 
 This project aims to analyze how to increase the number of completed orders by 31-40% in the next 4 months. Which includes transaction data from Sept 2017-Aug 2018. Our data scope includes data on order status, total revenue, net sales, average discount and product category. 
 
